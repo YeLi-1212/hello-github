@@ -8,6 +8,6 @@ i am admitted to be a graduated student of computer science in Fudan university.
 I have to make an effort to change my life and develope my skills.
 
 
-*list 1
-*list 2
-*list 3
+*  1
+* list 2
+* list 3
